@@ -1,0 +1,20 @@
+section {
+    display: -webkit-flex;
+    display: flex;
+  }
+
+  nav {
+    -webkit-flex: 6;
+    -ms-flex: 6;
+    flex: 6;
+    background: #0cd7a4;
+
+    height: 100vh;
+  }
+  article {
+    -webkit-flex: 2;
+    -ms-flex: 2;
+    flex: 2;
+    background-color: #83f265d4;
+    height: 100vh;
+  }
